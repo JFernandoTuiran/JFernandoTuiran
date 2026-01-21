@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy J Fernando Tuiran</h1>
+<h1 align="center">Hola 👋, soy Juan Fernando Tuiran</h1>
 <h3 align="center">Desarrollador Web | Frontend / Full Stack</h3>
 
 <p align="center">
